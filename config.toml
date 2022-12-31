@@ -52,7 +52,7 @@ weight = 4
 # default parameters
 [params]
 home = "Home"
-logo = ""
+logo = "images/logo/logo-with-text-white-48px.png"
 # theme color
 theme_color = "#FF812A"
 # contact info
